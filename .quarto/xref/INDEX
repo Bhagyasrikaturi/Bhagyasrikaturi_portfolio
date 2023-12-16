@@ -31,5 +31,11 @@
   },
   "posts/post with code/index.qmd": {
     "index.html": "48d520db"
+  },
+  "posts/history of R/index.qmd": {
+    "index.html": "50d27a31"
+  },
+  "posts/application of R/index.qmd": {
+    "index.html": "d994e3fa"
   }
 }

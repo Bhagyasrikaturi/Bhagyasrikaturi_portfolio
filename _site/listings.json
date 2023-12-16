@@ -9,7 +9,8 @@
   {
     "listing": "/projects.html",
     "items": [
-      "/posts/post with code/index.html",
+      "/posts/application of R/index.html",
+      "/posts/history of R/index.html",
       "/posts/welcome/index.html"
     ]
   }
